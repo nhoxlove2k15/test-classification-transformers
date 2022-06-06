@@ -1,0 +1,9 @@
+# transformer
+tensorflow
+transformers
+# pyvi
+pyvi
+# pandas
+pandas
+fastapi
+
